@@ -4,7 +4,7 @@ DOS-FX Operating System is a project who's goals are to create an MS-DOS compati
 
 # License
 
-All files within this repo are released under the [MIT License]( https://en.wikipedia.org/wiki/MIT_License) as per the [LICENSE file](https://[github.com/dos-fx/DOS-FX/blob/main/LICENSE)) stored in the root of this repo.
+All files within this repo are released under the [MIT License]( https://en.wikipedia.org/wiki/MIT_License) as per the [LICENSE file](https://github.com/dos-fx/DOS-FX/blob/main/LICENSE) stored in the root of this repo.
 
 # Trademarks
 
