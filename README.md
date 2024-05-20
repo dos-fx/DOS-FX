@@ -1,6 +1,6 @@
 # DOS-FX Operating System
 
-DOS-FX Operating System is a project who's goals are to create an MS-DOS compatible Operating system using the newly released MS-DOS 4.0 Source code for Computers with i586 class cpus (the original pentium) or newer. This is very WIP as of 26/04/2024.
+The DOS-FX Operating System is a project whose goals are to create an MS-DOS compatible operating system using the newly released MS-DOS 4.0 source code for computers with i586 class cpus (the original pentium) or newer. This is very WIP as of 26/04/2024.
 
 # License
 
